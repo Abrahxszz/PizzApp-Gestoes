@@ -5,7 +5,7 @@ Sistema de gerenciamento completo para pizzarias — controle de pedidos, estoqu
 ## 👥 Equipe
 - Abrahão Nicollas Machado Nabor (24030)
 - Guilherme Damaceno Serra (
-- Pedro Deola dos Anjos (
+- Pedro Deola dos Anjos (24312)
 
 ## 🗂 Estrutura
 
