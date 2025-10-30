@@ -19,3 +19,5 @@ Para melhor compreensão deste sistema, disponibilizamos toda a documentação d
 [Todos os Wireframes](https://pdfhost.io/v/fDdEs9WsMQ_Wireframes_PizzApp)
 
 [Diagrama de Entidades e Relacionamentos](https://pdfhost.io/v/vAk8GXw6KC_DER_PizzApp)
+
+[Slides do projeto](https://www.canva.com/design/DAG3OwppXns/Bo8zSvy5kkLvaB-0xzYL_A/edit?utm_content=DAG3OwppXns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
