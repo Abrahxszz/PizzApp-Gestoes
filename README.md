@@ -16,6 +16,6 @@ Para melhor compreensão deste sistema, disponibilizamos toda a documentação d
 
 [Código SQL](./SQL/BD.sql)
 
-[Todos os Wireframes](./Documentação/Wireframes.pdf)
+[Todos os Wireframes](./Documentacao/Wireframes.pdf)
 
-[Diagrama de Entidades e Relacionamentos](./Documentação/DER.pdf)
+[Diagrama de Entidades e Relacionamentos](./Documentacao/DER.pdf)
