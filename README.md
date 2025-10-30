@@ -18,4 +18,4 @@ Para melhor compreensão deste sistema, disponibilizamos toda a documentação d
 
 [Todos os Wireframes](https://pdfhost.io/v/fDdEs9WsMQ_Wireframes_PizzApp)
 
-[Diagrama de Entidades e Relacionamentos](./Documentacao/DER.pdf)
+[Diagrama de Entidades e Relacionamentos](https://pdfhost.io/v/vAk8GXw6KC_DER_PizzApp)
