@@ -16,6 +16,6 @@ Para melhor compreensão deste sistema, disponibilizamos toda a documentação d
 
 [Código SQL](./SQL/BD.sql)
 
-[Todos os Wireframes](./Documentacao/Wireframes.pdf)
+[Todos os Wireframes](https://pdfhost.io/v/fDdEs9WsMQ_Wireframes_PizzApp)
 
 [Diagrama de Entidades e Relacionamentos](./Documentacao/DER.pdf)
